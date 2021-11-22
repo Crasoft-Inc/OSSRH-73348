@@ -14,6 +14,6 @@ public class CustomGeneralException extends RuntimeException {
   }
 
   public CustomGeneralException() {
-    this("Unknow error happened, see the debug console for more info", "0000");
+    this("Unknown error happened, see the debug console for more info", "0000");
   }
 }
