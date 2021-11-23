@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.crasoftinc</groupId>
     <artifactId>exceptions-jma</artifactId>
-    <version>1.2.2</version>
+    <version>1.2.3</version>
     <name>exceptions-jma</name>
     <description>Demo project for Spring Boot</description>
     <url>https://github.com/Crasoft-Inc/OSSRH-73348</url>
